@@ -32,6 +32,5 @@
 ![](images/uiyipo.PNG)
 #### Profile
 ![](images/werqwerqwe.PNG)
-#### Sign up
+#### Resources > Quick Recipes
 ![](images/wetrqwertqwer.PNG)
-#### Sign up
