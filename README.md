@@ -1,5 +1,5 @@
 # heartandparcel.org
-## Virtual Learning Space
+## Virtual Learning Environment
 #### Sign up
 ![](images/Capture.PNG)
 #### Sign in
