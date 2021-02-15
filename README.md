@@ -1,4 +1,5 @@
 # heartandparcel.org
+## Virtual Learning Space
 #### Sign up
 ![](images/Capture.PNG)
 #### Sign in
@@ -11,26 +12,26 @@
 ![](images/ewrqrqwer.PNG)
 #### Forum post
 ![](images/ewrqwerewq.PNG)
-#### Instructor Announcements
+#### Instructor Announcements (Guest)
 ![](images/qwerqwerwer.PNG)
-#### Settings
+#### Instructor Announcements
 ![](images/reqwerqwe.PNG)
-#### Resources > Materials
+#### Settings
 ![](images/rweqrewqrweqrqew.PNG)
-#### Privacy Policy (Sample)
+#### Resources > Materials
 ![](images/rweqrwe.PNG)
-#### Navbar 1 & 2
+#### Privacy Policy (Sample)
 ![](images/tewrtertert.PNG)
-#### Forum
+#### Navbar 1 & 2
 ![](images/tuytyutui.PNG)
-#### Footer
+#### Forum
 ![](images/uioipoi.PNG)
-#### Homepage + Navbar (guest)
+#### Footer
 ![](images/uiyioy.PNG)
-#### Profile
+#### Homepage + Navbar (guest)
 ![](images/uiyipo.PNG)
-#### Sign up
+#### Profile
 ![](images/werqwerqwe.PNG)
-
+#### Sign up
 ![](images/wetrqwertqwer.PNG)
 #### Sign up
