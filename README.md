@@ -34,3 +34,5 @@
 ![](images/werqwerqwe.PNG)
 #### Resources > Quick Recipes
 ![](images/wetrqwertqwer.PNG)
+
+© BSi (github.com/dev7060)
